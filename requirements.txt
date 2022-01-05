@@ -1,0 +1,16 @@
+allure-behave==2.8.7
+allure-python-commons==2.8.7
+attrs==19.3.0
+behave==1.2.6
+behave-teamcity==0.1.25
+importlib-metadata==1.4.0
+parse==1.14.0
+parse-type==0.5.2
+pluggy==0.13.1
+requests==2.23.0
+selenium==3.141.0
+selenium-wire==1.0.11
+six==1.14.0
+teamcity-messages==1.27
+urllib3==1.25.8
+zipp==2.1.0
